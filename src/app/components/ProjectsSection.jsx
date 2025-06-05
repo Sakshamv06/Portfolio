@@ -7,8 +7,8 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "SamCode",
-    description: "My Portfolio showcasing my skills",
+    title: "National scholarship portal",
+    description: "Responsible for supporting the deployment, monitoring, and maintenance of the critical infrastructure that powers the NSP application—a high-impact, government-scale platform serving millions of students across India.",
     image: "/images/projects/p1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Sakshamv06/Portfolio",

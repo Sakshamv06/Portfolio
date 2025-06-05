@@ -34,7 +34,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Python Developer Intern : AllSoft Solution (Summer Internship 2021)</li>
-        <li>DevOps Intern : Keen and Able Computers Private Limited (April 2024 - Till Present)</li>
+        <li>Junior DevOps Engineer  : Keen and Able Computers Private Limited (April 2024 - Till Present)</li>
       </ul>
     ),
   },
@@ -57,9 +57,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a passionate and motivated software engineer with a background in MCA and a strong interest in DevOps, full-stack development, and automation.
+            I am a passionate and motivated software engineer with a background in MCA and a strong interest in Linux DevOps, full-stack development, and automation.
             I have experience working with technologies like Docker, Jenkins, Next.js, MongoDB, and more.
-            My journey into the tech world has been driven by a deep desire to learn and apply the latest tools and practices in the software industry.
+            My journey into the tech world has been driven by a deep desire to learn  linux and apply the latest tools and practices in the software industry.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
